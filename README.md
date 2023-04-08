@@ -11,9 +11,7 @@ Queries and Insights:
 The project includes queries to extract and analyze the following data:
 
 The total number of domestic and foreign tourists who visited Telangana between 2016 and 2019
-
 The top ten tourist destinations in Telangana
-
 The number of tourists visiting each destination between 2016 and 2019
 The top 3 and bottom 3 districts based on CAGR of visitors for 2016 to 2019
 The peak and low seasons for Hyderbad calculated as an average for the period of 2016-19
