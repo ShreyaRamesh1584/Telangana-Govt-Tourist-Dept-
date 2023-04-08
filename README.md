@@ -1,4 +1,4 @@
-# Telengana-Govt-Tourist-Dept-
+# Telangana-Govt-Tourist-Dept-
 This SQL project aims to analyze and present insights on Telangana's tourism and culture data. The project has been developed using MySQL, and the data is sourced from publicly available datasets.
 
 Dataset used:
@@ -35,3 +35,4 @@ The Telangana Tourism and Culture SQL project provides a useful analysis of Tela
 
 The Dashboard below is used to visualize the insights drwan from the queries, and can be downloaded from the repository.
 ![Telangana Tourism Insights](https://user-images.githubusercontent.com/file:///D:/Documents/JOB/Projects/Telengana%20Govt/Telangana%20Tourism%20Insights.png)
+<img src="D:\Documents\JOB\Projects\Telengana Govt" alt="Alt text" title="Optional title">
